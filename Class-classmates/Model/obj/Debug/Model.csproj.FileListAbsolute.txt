@@ -1,0 +1,13 @@
+C:\Users\HANG\Desktop\班级网站\ClassSite\Model\bin\Debug\Maticsoft.Model.dll
+C:\Users\HANG\Desktop\班级网站\ClassSite\Model\bin\Debug\Maticsoft.Model.pdb
+C:\Users\HANG\Desktop\班级网站\ClassSite\Model\obj\Debug\Maticsoft.Model.dll
+C:\Users\HANG\Desktop\班级网站\ClassSite\Model\obj\Debug\Maticsoft.Model.pdb
+E:\毕业设计\asp.net\A0033班级网站\源码\Model\bin\Debug\Maticsoft.Model.dll
+E:\毕业设计\asp.net\A0033班级网站\源码\Model\bin\Debug\Maticsoft.Model.pdb
+E:\毕业设计\asp.net\A0033班级网站\源码\Model\obj\Debug\Maticsoft.Model.dll
+E:\毕业设计\asp.net\A0033班级网站\源码\Model\obj\Debug\Maticsoft.Model.pdb
+C:\Users\DXT\Desktop\源码\Model\bin\Debug\Maticsoft.Model.dll
+C:\Users\DXT\Desktop\源码\Model\bin\Debug\Maticsoft.Model.pdb
+C:\Users\DXT\Desktop\源码\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\DXT\Desktop\源码\Model\obj\Debug\Maticsoft.Model.dll
+C:\Users\DXT\Desktop\源码\Model\obj\Debug\Maticsoft.Model.pdb

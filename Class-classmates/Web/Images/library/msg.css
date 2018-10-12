@@ -1,0 +1,27 @@
+﻿@charset "utf-8";
+/*验证提示样式*/
+.focus{background:#fffee5;}
+span.error{margin-left:5px;padding:5px 0 5px 25px;color:#F00;background:url(msg_bg.gif) 0 2px no-repeat;}
+span.success{margin-left:5px;padding-left:25px;color:#999;background:url(msg_bg.gif) 0 -22px no-repeat;}
+
+/*自动提示样式*/
+.pcent{top:48%;right:38%;position:absolute;display:none;}/*页面居中显示*/
+.correct{padding:5px 10px 5px 30px;border:1px solid #3072b3;color:#090;background:url(msg-01.gif) no-repeat 10px center #e9f2fc;}
+
+/*提示文字样式*/
+#HintMsg{width:271px;position:absolute;display:none;}
+#HintMsg .HintTop{height:9px;background:url(hintbg1.gif) no-repeat;overflow:hidden;}
+#HintMsg .HintInfo{padding:0 5px;border-left:1px solid #000;border-right:1px solid #000;background:#FFFFE1;line-height:1.5em;}
+#HintMsg .HintInfo b{display:block;margin-bottom:6px;padding-left:15px;background:url(hint.gif) left center no-repeat;height:13px;line-height:16px;}
+#HintMsg .HintInfo b span{display:block;float:right;text-indent:-9999px;background:url(close.gif) no-repeat;width:12px;height:12px;cursor:pointer;}
+#HintMsg .HintFooter{height:22px;background:url(hintbg2.gif) no-repeat;}
+
+/*设置提示样式*/
+.icon-01,.icon-02,.icon-03{margin:0; padding:10px 0 0 80px; color:#4D4D4D; font-family:"微软雅黑"; line-height:1.8em; min-height:60px;}
+.icon-01{background:url(icon-01.gif) no-repeat 10px 10px;}
+.icon-02{background:url(icon-02.gif) no-repeat 10px 10px;}
+.icon-03{background:url(icon-03.gif) no-repeat 10px 10px;}
+.icon-01 b,.icon-02 b,.icon-03 b{display:block;font-size:14px;line-height:2.0em;}
+.icon-01 b{color:#090;}
+.icon-02 b{color:#F00;}
+.icon-03 b{color:#FC0;}
